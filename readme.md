@@ -22,7 +22,7 @@ Welcome to Snake Game, a simple Python game developed using the Pygame library. 
 
 ````markdown
 # Clone the project
-[git clone https://github.com/yourusername/snake-game.git](https://github.com/jotape2709/snake-game.git)
+git clone https://github.com/jotape2709/snake-game.git
 ````
 
 ````markdown
